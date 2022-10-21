@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Gabrielle Pariag, and honors undergraduate student studying Computer Science at the University of Central Florida
-- 👀 I’m interested in an internship in the tech field to expand on my programming skills and grow professionally
-- 🌱 I’m currently learning about data structures & algorithms
-- 📫 How to reach me: gabriellepariag@knights.ucf.edu
+### Hello there!
+
+My name is Gabrielle and I'm an honors undergraduate CS major at the University of Central Florida graduating in May of 2025. I currently am part of the Knights Hack organization, Marching Knights, and Honors Congress!
+
+I'm looking for an internship in tech to develop my professional skills! You can contact me most easily at my email:
+
+gabriellepariag@knights.ucf.edu
+
+Some fun facts about me:
+- I'm from the southernmost point of the United States: Key West, FL.
+- I love video games! My favorite is Elder Scrolls V: Skyrim.
+- My biggest passion is giving the gift of learning to other students, I am the co-founder of a non-profit tutoring organization in my hometown!
 
 <!---
 GabriellePariag/GabriellePariag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
