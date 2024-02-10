@@ -13,4 +13,3 @@ I'm always excited to connect with fellow tech enthusiasts, students, and anyone
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/gabrielle-pariag)
 - 📧 Email: ga839652@ucf.edu
 
-Let's code, learn, and change the world together! 🚀
