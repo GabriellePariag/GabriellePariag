@@ -32,7 +32,7 @@
 		return Orlando_Florida()
 	
 	def Ambitions():
-		FinishMyApp()
+		LearnSwedish()
 		GoSurfingInHawaii()
 		Read30BooksThisYear()
 		# We'll see about the last one  ;)
@@ -40,9 +40,9 @@
  ```
  
 ## Current Works
- * Learning SwiftUI with MoodHacker
- * I'm currently working on building **an iOS app designed to improve your day through machine learning**.
+ * Preparing for Shell Hacks hackathon.
+ * Re-designing the Society of Women Engineers @ UCF website.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1stNekivP7MKNfT8rXrCENjSh55Q1eqYR/view?usp=drive_link)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1stNekivP7MKNfT8rXrCENjSh55Q1eqYR/view?usp=sharing)
  
