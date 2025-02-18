@@ -20,7 +20,7 @@
  ```python
  class WhoAmI:
  	user = 'Gabrielle Pariag'
-		current_work = 'SWE Intern @ GDMS'
+		current_work = 'SWE Intern @ Adobe'
 		hobbies = [
 				'Attending hackathons',
 				'Surfing',
