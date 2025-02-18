@@ -40,7 +40,7 @@
  ```
  
 ## Current Works
- * Preparing for Shell Hacks hackathon.
+ * Doing a study abroad in Sweden.
  * Re-designing the Society of Women Engineers @ UCF website.
  
 ## Other Stuff
